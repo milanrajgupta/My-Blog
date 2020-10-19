@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/my_blog",
+    "prod_uri": "mysql://root:@localhost/my_blog",
+    "blog_name": "My Blog",
+    "tag_line": "A Blog Liked by Programmer....",
+
+    "gmail-user": "mrguptaruff@gmail.com",
+    "gmail-password": "Villain@123#",
+
+    "about-text": "Hey...  My name is Milan and I am Flask Developer.",
+
+    "no_of_posts": 5,
+    "login_image": "Milan.jpg",
+
+    "admin_user": "Milan",
+    "admin_password": "Milan@123",
+
+    "upload_location": "H:\\PYTHON_2020\\Flask_Project\\static"
+
+  }
+}
